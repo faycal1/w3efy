@@ -1,11 +1,11 @@
 {
-  "name": "buefy",
-  "version": "0.9.4",
-  "homepage": "https://buefy.org",
-  "description": "Lightweight UI components for Vue.js based on Bulma",
-  "author": "Rafael Beraldo <rafael.pimpa@gmail.com>",
+  "name": "w3efy",
+  "version": "0.0.1",
+  "homepage": "https://www.offrine.com",
+  "description": "Lightweight UI components for Vue.js based on W3.css",
+  "author": "Hasbellaoui Fayçal <hasbellaoui.faycal@gmail.com>",
   "maintainers": [
-    "Walter Tommasi <tommsi20@gmail.com>"
+    "Hasbellaoui Fayçal <hasbellaoui.faycal@gmail.com>"
   ],
   "license": "MIT",
   "main": "dist/cjs/index.js",
@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/buefy/buefy.git"
+    "url": "https://github.com/faycal1/w3efy.git"
   },
   "bugs": {
     "url": "https://github.com/buefy/buefy/issues"
